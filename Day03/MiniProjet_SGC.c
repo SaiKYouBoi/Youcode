@@ -126,7 +126,6 @@ void rechercher()
       printf("Le nemero de Telephone: %s\n", info[i].tele);
       printf("Email: %s\n", info[i].email);
       trouve = 1;
-      //break;
     }
   }
   if (trouve != 1)
